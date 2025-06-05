@@ -3,7 +3,7 @@ document.getElementById("inc").onclick=function increase(){
     count++;
     document.getElementById("count").innerHTML=count;
 }
-document.getElementById("rest").onclick=function reset(){
+document.getElementById("rest").onclick=function reser(){
     count=0;
     document.getElementById("count").innerHTML=count;
 }
