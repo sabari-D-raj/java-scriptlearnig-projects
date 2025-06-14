@@ -24,4 +24,4 @@ console.log(result)//output will be sXbXri RXj RS
 //if you want to slice the string use string slice(index from , index to)
 firstName =userName.slice(0,6)
 console.log(firstName) //output will be Sabari
-// there is many more try to find it your self  by doing projects :)
+// there is many more try to find it your self :)
