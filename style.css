@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap:2vh;
+      
+}
+button{
+    color:rgb(22, 222, 132);
+    background-color: rgb(45, 45, 195);
+    border-radius:0 5vh 5vh;
+}
