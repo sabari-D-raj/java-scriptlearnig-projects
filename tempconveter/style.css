@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    
+}
+#input{
+    font-weight: 400;
+    font-size: large;
+}
+.in{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: larger;
+
+}
+.button{
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:2vw;
+    margin-top: 5vh;
+}
+button{
+    border-radius: 20px;
+    background-color: aqua;
+    padding: 20px;
+    font-size: larger;
+}
+button:hover{
+    background-color: rgb(43, 153, 226);
+}
+#result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size:50px;
+}
