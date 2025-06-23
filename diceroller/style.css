@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+span{
+    color:red;
+    animation: colorchange 2s ease-in-out infinite;
+
+}
+@keyframes colorchange {
+    0%,33%{
+        color :rgb(25, 231, 46);
+    }
+    34%, 67%{
+        color: rgb(246, 5, 5);
+    }
+    68% ,100%{
+        color: black;
+    }
+}
+#number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
